@@ -38,5 +38,8 @@ else:
     print(f'{1} is not considered as prime')
 
 
+print("End of assignment, Output screenshot in comment section of google classroom where we submit Assignment")
+
+
 
 
